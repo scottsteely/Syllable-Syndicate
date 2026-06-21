@@ -1,0 +1,17 @@
+All data sets where obtained from https://www.kaggle.com/ 
+
+https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset
+CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings
+CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+https://www.kaggle.com/datasets/riteshswami08/10000-popular-tv-shows-dataset-tmdb
+CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+https://www.kaggle.com/datasets/ludmin/billboard
+CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
