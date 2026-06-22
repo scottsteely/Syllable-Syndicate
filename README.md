@@ -16,7 +16,6 @@
 # Syllable Syndicate, a word game.
 
 [![License](https://p.kagi.com/proxy/license-MIT-blue.svg?c=EgGQfWtq44GRXgvj3b8hBT9Ge2Vh_riJyU6FF9ZblGvEtgRjc8SCb91AhOONdajKILjqdcaGC111txZ2WZTtCak0Dgue5Erq9JeCwNqCeyY%3D)](LICENSE)
-[![Build Status](https://p.kagi.com/proxy/CI?c=EgGQfWtq44GRXgvj3b8hBUwBAbjkl7zH1PYezrkVhvrxjMx_XauD1a1Q0Dposez3n9se6jmJW8hV7DfFn2Dt1deYwhRTdHeRHtrW9ALfbck%3D)](https://github.com/username/repo/actions)
 
 A hangman-style word guessing game with modifiers written in Python.
 
@@ -91,9 +90,7 @@ Clone this repo, pip install pygame (or install for your environment). Then run 
 
 # License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://p.kagi.com/proxy/License-MIT-yellow.svg?c=EgGQfWtq44GRXgvj3b8hBRXricM-k_3QfS0ZjcVvxrVTC_OjXfrq-1WvGvPIoZWcn5fDBAzYP0MY-VU8i0ao1Ko6CBS41qMjmOv_OZdhKm0%3D)](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT License
 
 
 <a id="orgb797d43"></a>
